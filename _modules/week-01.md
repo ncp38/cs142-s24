@@ -4,17 +4,17 @@ title: ""
 
 <!---   --->
 
-Wed, Jan 10
-: **Introduction, go over syllabus, introduce Java.**  
 <!---  Add intro to course information?  Modify power point include new examples...project videos, etc. ;; Make specific note that office hours are for students-an advantage of going to a school like Rhodes.  MENTION TUTORS!!  Set up get to know each other exercise!--->
 <!--- Introduce broad topics, advice for course  --->
+Wed, Jan 10
+: **Introduction, go over syllabus, introduce Java.**  
   Printing, variables, user input, math, if/else, loops.  
   [Java basics](lectures/intro/java-basics.pdf).
 : [**Slides**](lectures/intro/CS142Intro1Slides.pdf){: .label-button } 
 : **Reading**{: .label .label-reading} Liang chapter 2 (basics), chapter 3 (if statements).
 
-Fri, Jan 12
 <!--- Work in Exercism, book?  --->
+Fri, Jan 12
 : **Continue with Java.**  
   Random number generation, while loops.  
   [Programs for today](lectures/intro/scheduleLab1.pdf)
