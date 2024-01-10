@@ -31,7 +31,7 @@ seo:
         [official Java tutorials](https://docs.oracle.com/javase/tutorial/), 
         [Introduction to Programming Using Java](http://math.hws.edu/javanotes/index.html) (free online textbook)
 - Java in the browser: [Repl.it](http://repl.it/new/java), <a href="http://codehs.com">CodeHS</a>
-- Coding exercises for practice, review, and improvement: [Exercism] (https://exercism.org/tracks/java/exercises)
+- Coding exercises for practice, review, and improvement: [Exercism](https://exercism.org/tracks/java/exercises)
 - <a href="https://docs.oracle.com/en/java/javase/17/docs/api/">Official Java documentation</a>
      
 
