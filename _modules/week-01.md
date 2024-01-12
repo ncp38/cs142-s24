@@ -17,6 +17,7 @@ Wed, Jan 10
 Fri, Jan 12
 : **Continue with Java.**  
   Random number generation, while loops.  
+:  [**Start-up: Accessing in-class code examples**](lectures/oop/VCSSetup.pdf)
   [Programs for today](lectures/intro/scheduleLab1.pdf)
   [while loop handout](lectures/intro/while-loops-handout.pdf).
 : [**Example Code**](lectures/intro/introductionToJava.java){: .label-button } 
@@ -34,7 +35,6 @@ Wed, Jan 17
 
 Fri, Jan 19
 : **Lab**{: .label .label-lab }  [**Lab 1**]<!---(labs/lab1/)--->
-:  [**Start-up: Accessing in-class code examples**](lectures/oop/VCSSetup.pdf)
 
 
 <!---
