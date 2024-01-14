@@ -12,7 +12,6 @@ Wed, Jan 10
 : [**Slides**](lectures/intro/CS142Intro1Slides.pdf){: .label-button } 
 : **Reading**{: .label .label-reading} Liang chapter 2 (basics), chapter 3 (if statements).
 
-<!--- Work in Exercism, book?  --->
 Fri, Jan 12
 : **Continue with Java.**  
   Printing, variables, user input, math, if/else, loops, random number generation, while/for loops.  
