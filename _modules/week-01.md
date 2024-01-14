@@ -66,7 +66,7 @@ Mon, Jan 29
   
 Wed, Jan 31
 TBD
-<!---x
+<!--- x
 :  A series of lectures to watch followed by in-class work!  
 :  [Lecture 1 - Debugging with Intellij](https://rhodes.instructuremedia.com/embed/75f01cbf-69f9-4c77-aeb7-96e19c0b19fa){: .label-button } 
 :  [Lecture 2 - Design Choices](https://rhodes.instructuremedia.com/embed/c1553cb0-476d-45c3-b56c-277d4420e8da){: .label-button } 
@@ -122,8 +122,7 @@ Wed, Feb 21
 
 Fri, Feb 23
 : **Midterm I**{: .label .label-exam }
-<!---
-Mon, Oct 9
+<!--- Mon, Oct 9
 : **ArrayLists, Strings, and File Reading**  
   [String handout](lectures/arraylists-str/strings-handout.pdf),
   [ArrayList handout](lectures/arraylists-str/arraylists-handout.pdf),
@@ -236,6 +235,4 @@ Mon, Dec 4
 
 Wed, Dec 6
 : Final Review!!
-: [Final Solutions](lectures/examPrep/final-prac-problems-sol-f23.pdf) 
-
---->
+: [Final Solutions](lectures/examPrep/final-prac-problems-sol-f23.pdf)  
