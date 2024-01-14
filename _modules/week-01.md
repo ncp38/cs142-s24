@@ -20,7 +20,6 @@ Fri, Jan 12
 :  [**Start-up: Accessing in-class code examples**](lectures/oop/VCSSetup.pdf)
   [Programs for today](lectures/intro/scheduleLab1.pdf)
   [while loop handout](lectures/intro/while-loops-handout.pdf).  
-  
 :  [Code Source](https://github.com/ncp38/cs142-s24-inclass/tree/main/Intro){: .label-button } 
 : **Reading**{: .label .label-reading} Liang chapter 5 (loops).
 
