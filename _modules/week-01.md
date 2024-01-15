@@ -32,7 +32,7 @@ Wed, Jan 17
 : **Project**{: .label .label-proj } [**Project 1**](projects/proj1) (due Thu, Jan 25)
 
 Fri, Jan 19
-: **Lab**{: .label .label-lab }  [**Lab 1**]<!---(labs/lab1/)--->
+: **Lab**{: .label .label-lab }  [**Lab 1**](labs/lab1/)
 
 
 Mon, Jan 22
@@ -48,7 +48,7 @@ Wed, Jan 24
 :  [**Start-up: Accessing in-class code examples**](lectures/oop/VCSSetup.pdf)
 :  [OOP definitions](lectures/oop/oop-defs.pdf)
 :  [SimpleCanvas and Color APIs](lectures/oop/simplecanvas-and-color.pdf)
-:  [Code Source](https://github.com/ncp38/cs142-f23-inclass/tree/main/oop1){: .label-button } 
+:  [Code Source](https://github.com/ncp38/cs142-s24-inclass/tree/main/src/oop1){: .label-button } 
 
 : **Reading**{: .label .label-reading} Sedgewick & Wayne 3.1, pp. 329-325 (OO concepts).
 : **Homework**{: .label .label-hw } [**Homework 1**](homework/hw1) (due Thu, Feb 1)
@@ -65,6 +65,7 @@ Mon, Jan 29
   
 Wed, Jan 31
 : TBD
+: **Project**{: .label .label-proj } [**Project 2**](projects/proj2) (due Thu, Feb 15)
 
 <!---:  A series of lectures to watch followed by in-class work!  
 :  [Lecture 1 - Debugging with Intellij](https://rhodes.instructuremedia.com/embed/75f01cbf-69f9-4c77-aeb7-96e19c0b19fa){: .label-button } 
@@ -80,7 +81,6 @@ Mon, Feb 5
   [Class design handout](lectures/oop/oop-creating-classes-handout.pdf)
 : [**Slides**](lectures/oop/oop-creating-classes-slides1.pdf){: .label-button } 
 : **Reading**{: .label .label-reading} Liang 9.1-9.3, 9.5 (creating classes).
-: **Project**{: .label .label-proj } [**Project 2**](projects/proj2) (due Thu, Feb 15)
 
 Wed, Feb 7
 : **Creating Classes II**  
