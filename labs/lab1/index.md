@@ -5,15 +5,21 @@ parent: Labs
 
 # CS 142 Lab 1
 
+## Welcome to lab!
+
+Welcome to the lab section of COMP 142-today, we'll be focusing primarily on a group programming assignment (detailed below!).  Go ahead and pair up with a partner and begin working.  (If you can't find a partner, let me know, and I can help you pair up.)  This webpage should give you a good breakdown of what to expect from this lab.  Remember that both partners need to submit the assignment and that everything is due by tonight at midnight!
+
+I know you have experience with our half-lab half-lecture class from last week, but this is the first time you'll be doing graded work as part of your lab!  Throughout this lab and this class, please let me know if you have any questions!
+
 ## Wheel of Fortune
 
 <img src="GetFromVersionControl.png" width=300 align=right>
 
-- Start IntelliJ. In the top-left corner of the screen, click the project dropdown and choose “Get from VCS.” This is new; we haven’t used this option before. We will make a new project to store all of our labs and code that I want to distribute to the whole class.  (This will copy my code from online into a new project-I recommend you put this in a directory with the other COMP 142 projects. Intellij *should* automatically set this to the directory you've used most recently.)
+- Start IntelliJ. In the top-left corner of the screen, click the project dropdown and choose “Get from VCS.” This is the same approach we used earlier for in-class work. We will make a new project to store all of our labs and code that I want to distribute to the whole class.  (This will copy my code from online into a new project-I recommend you put this in a directory with the other COMP 142 projects. Intellij *should* automatically set this to the directory you've used most recently.)
 
 - On the next screen, copy and paste in the following URL in the box that says “URL”:
 
-  https://github.com/ncp38/cs142-f23-inclass
+  https://github.com/ncp38/cs142-s24-inclass
 
 <img src="SetUpURLAndDirectory.png" width=600 align=center>
 

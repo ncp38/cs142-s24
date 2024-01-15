@@ -50,7 +50,7 @@ Wed, Jan 24
 :  [SimpleCanvas and Color APIs](lectures/oop/simplecanvas-and-color.pdf)
 :  [Code Source](https://github.com/ncp38/cs142-s24-inclass/tree/main/src/oop1){: .label-button } 
 
-: **Reading**{: .label .label-reading} Sedgewick & Wayne 3.1, pp. 329-325 (OO concepts).
+: **Reading**{: .label .label-reading} Sedgewick & Wayne 3.1, pp. 329-335 (OO concepts).
 : **Homework**{: .label .label-hw } [**Homework 1**](homework/hw1) (due Thu, Feb 1)
 
 Fri, Jan 26
