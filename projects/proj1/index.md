@@ -30,7 +30,7 @@ That player loses the game, and the other player wins.
 ## Testing your program
 - You should test your program thoroughly to make sure it works.
 - Your program should gracefully handle situations where either the pile is mistyped (ask for it again), 
-  or the number of sticks to removed is wrong (ask for it again).
+  or the number of sticks to be removed is wrong (ask for it again).
 - You may assume the players will never enter a non-integer for the number of sticks to remove.
 
 ## Sample interactions
