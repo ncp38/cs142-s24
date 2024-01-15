@@ -7,7 +7,7 @@ parent: Labs
 
 ## Welcome to lab!
 
-Welcome to the lab section of COMP 142-today, we'll be focusing primarily on a group programming assignment (detailed below!).  Go ahead and pair up with a partner and begin working.  (If you can't find a partner, let me know, and I can help you pair up.)  This webpage should give you a good breakdown of what to expect from this lab.  Remember that both partners need to submit the assignment and that everything is due by tonight at midnight!
+Welcome to the lab section of COMP 142-today, we'll be focusing primarily on a group programming assignment (detailed below!).  Go ahead and pair up with a partner and begin working.  (If you can't find a partner, let me know, and I can help you pair up.)  This webpage should give you a good breakdown of what to expect from this lab.  Remember that **both partners** need to submit all assignment files and that everything is **due by tonight at midnight!**
 
 I know you have experience with our half-lab half-lecture class from last week, but this is the first time you'll be doing graded work as part of your lab!  Throughout this lab and this class, please let me know if you have any questions!
 
