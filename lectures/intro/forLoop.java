@@ -1,8 +1,4 @@
 //Nate Phillips, professor for COMP 142
-
-//These statements are import statements-they pull in functionality you may want to use.
-//For example, this package lets you use the *scanner.*
-
 class forLoop
 {
     public static void main(String[] args)
