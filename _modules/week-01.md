@@ -47,7 +47,7 @@ Wed, Jan 24
 : **Reading**{: .label .label-reading} Liang 7.0-7.8 (arrays).
 
 Fri, Jan 26
-: **Lab**{: .label .label-lab } [**Lab 2**]<!---(labs/lab2/)--->
+: **Lab**{: .label .label-lab } [**Lab 2**](labs/lab2/)
 
 Mon, Jan 29
 : **Object-Oriented Programming II**  
@@ -73,7 +73,7 @@ Wed, Jan 31
 :  [Lecture 3 - SimpleCanvas & In-Class Work](https://rhodes.instructuremedia.com/embed/b5ee1d41-8556-4609-93ed-cade4dc2aea8){: .label-button }--->
   
 Fri, Feb 2
-: **Lab**{: .label .label-lab } [**Lab 3**]<!---(labs/lab3/)--->
+: **Lab**{: .label .label-lab } [**Lab 3**](labs/lab3/)
 
 Mon, Feb 5
 : **Creating Classes I**  
@@ -88,7 +88,7 @@ Wed, Feb 7
 : **Reading**{: .label .label-reading} Liang 9.8 (public/private).
 
 Fri, Feb 9
-: **Lab**{: .label .label-lab } [**Lab 4**]<!---(labs/lab4/)--->
+: **Lab**{: .label .label-lab } [**Lab 4**](labs/lab4/)
 
 Mon, Feb 12
 : **Creating Classes III**  
