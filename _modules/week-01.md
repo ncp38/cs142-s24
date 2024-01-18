@@ -152,13 +152,13 @@ Fri, Mar 8
 : **Lab**{: .label .label-lab } [**Lab 7**](labs/lab7/)
 
 Mon, Mar 11
-Spring break!
+: Spring break!
 
 Wed, Mar 13
-Spring break!
+: Spring break!
 
 Fri, Mar 15 
-Spring break!
+: Spring break!
 
 Mon, Mar 18
 : **Recursion III**  
@@ -183,10 +183,10 @@ Mon, Mar 25
 : **Homework**{: .label .label-hw } [**Homework 3**](homework/hw3) (due Thu, Apr 11) 
 
 Wed, Mar 27
-Easter break!
+: Easter break!
 
 Fri, Mar 29
-Easter break!
+: Easter break!
 
 Mon, Apr 1
 : **Inheritance I**  
