@@ -21,6 +21,14 @@ Fri, Jan 12
 : **Reading**{: .label .label-reading} Liang chapter 5 (loops).
 
 Wed, Jan 17
+Snow day!!
+: **Project**{: .label .label-proj } [**Project 1**](projects/proj1) (due Thu, Jan 25)
+
+Fri, Jan 19
+: **Lab**{: .label .label-lab }  [**Lab 1**](labs/lab1/)
+
+
+Mon, Jan 22
 : **Practice with Java.**   
   [for loop handout](lectures/intro/for-loops-handout.pdf)
  [**For Loop Code**](lectures/intro/forLoop.java){: .label .label-button }
@@ -29,20 +37,19 @@ Wed, Jan 17
 :  [Functions handout](lectures/intro/functions-handout.pdf),
   [functions practice](lectures/intro/functions-practice.pdf).  
 : **Reading**{: .label .label-reading} Liang chapter 5 (loops) and chapter 6 (functions).
-: **Project**{: .label .label-proj } [**Project 1**](projects/proj1) (due Thu, Jan 25)
-
-Fri, Jan 19
-: **Lab**{: .label .label-lab }  [**Lab 1**](labs/lab1/)
 
 
-Mon, Jan 22
+Wed, Jan 24
 : **Practice with functions, intro to OOP.**  
   -Continue out-of-class work on functions handout.
 :  [**Functions with arrays**](lectures/oop/Arrays and Functions.pdf).  
   [Starting code](lectures/oop/classPracticeBlank.java).  
 : **Reading**{: .label .label-reading} Liang 7.0-7.8 (arrays).
 
-Wed, Jan 24
+Fri, Jan 26
+: **Lab**{: .label .label-lab } [**Lab 2**]<!---(labs/lab2/)--->
+
+Mon, Jan 29
 : **Object-Oriented Programming II**  
   Digging in deeper to OOP concepts and terminology.  Using classes and functions designed by others.
 :  [**Start-up: Accessing in-class code examples**](lectures/oop/VCSSetup.pdf)
@@ -52,20 +59,13 @@ Wed, Jan 24
 
 : **Reading**{: .label .label-reading} Sedgewick & Wayne 3.1, pp. 329-335 (OO concepts).
 : **Homework**{: .label .label-hw } [**Homework 1**](homework/hw1) (due Thu, Feb 1)
-
-Fri, Jan 26
-: **Lab**{: .label .label-lab } [**Lab 2**]<!---(labs/lab2/)--->
-
-Mon, Jan 29
+  
+Wed, Jan 31
 : **Object-Oriented Programming III**  
   OOP "gotchas" and learning about references.  
   [Gotchas handout](lectures/oop/oop-gotchas-handout.pdf)
-
 : **Reading**{: .label .label-reading} Liang chapter 8 (multidimensional arrays).
-  
-Wed, Jan 31
-: TBD
-: **Project**{: .label .label-proj } [**Project 2**](projects/proj2) (due Thu, Feb 15)
+: **Project**{: .label .label-proj } [**Project 2**]<!---(projects/proj2)---> (due Thu, Feb 15)
 
 <!---:  A series of lectures to watch followed by in-class work!  
 :  [Lecture 1 - Debugging with Intellij](https://rhodes.instructuremedia.com/embed/75f01cbf-69f9-4c77-aeb7-96e19c0b19fa){: .label-button } 
@@ -105,7 +105,7 @@ Wed, Feb 14
 : [**Exam Review (interpreting code)**](lectures/examPrep/midterm1-prac-additional.pdf){: .label-button } 
 
 Fri, Feb 16
-: **Lab**{: .label .label-lab } [**Lab 5**]<!---(labs/lab5/)--->
+: **Lab**{: .label .label-lab } [**Lab 5**](labs/lab5/)
 
 Mon, Feb 19
 : **Review for midterm**
@@ -121,117 +121,126 @@ Wed, Feb 21
 Fri, Feb 23
 : **Midterm I**{: .label .label-exam }
 
-<!---Mon, Oct 9
+Mon, Feb 26
 : **ArrayLists, Strings, and File Reading**  
   [String handout](lectures/arraylists-str/strings-handout.pdf),
   [ArrayList handout](lectures/arraylists-str/arraylists-handout.pdf),
   [Practice problems](lectures/arraylists-str/practice.pdf)
-: **Project**{: .label .label-proj } [**Project 3**](projects/proj3) (due Tue, Oct 24)
+: **Project**{: .label .label-proj } [**Project 3**]<!---(projects/proj3)---> (due Tue, Mar 19)
 
-Wed, Oct 11
+Wed, Feb 28
 : **ArrayLists, Strings, and File Reading**  
   Continue practice from Wednesday.
 : **Reading**{: .label .label-reading} Liang 11.11 (ArrayLists), 4.4 and 10.10 (strings).
 
-Fri, Oct 13
+Fri, Mar 1
 : **Lab**{: .label .label-lab } [**Lab 6**](labs/lab6/)
 
-Mon, Oct 16
-: **Fall break**
-
-Wed, Oct 18
+Mon, Mar 4
 : **Recursion I**  
   [Recursion handout](lectures/recursion/recursion-handout.pdf)
 : [**Slides**](lectures/recursion/recursion-1-slides.pdf){: .label-button } 
 	[**Recursion 1**](https://github.com/ncp38/cs142-f23-inclass/tree/main/src/recursion/Recursion1.java){: .label-button } 
 : **Reading**{: .label .label-reading} Liang 18.1-18.2 (recursion intro).
 
-Fri, Oct 20
-: **Lab**{: .label .label-lab } [**Lab 7**](labs/lab7/)
-
-Mon, Oct 23
+Wed, Mar 6
 : **Recursion II**
 : **Reading**{: .label .label-reading} Liang 18.3 (recursion continued).  Pay special attention to Figures 18.2 and 18.3 on
   page 722; these are important to understand.
 
-Wed, Oct 25
+Fri, Mar 8
+: **Lab**{: .label .label-lab } [**Lab 7**](labs/lab7/)
+
+Mon, Mar 11
+Spring break!
+
+Wed, Mar 13
+Spring break!
+
+Fri, Mar 15 
+Spring break!
+
+Mon, Mar 18
 : **Recursion III**  
   Recursive functions with arrays  
     [Recursion with arrays handout](lectures/recursion/recursion-with-arrays.pdf)
 : [**Slides**](lectures/recursion/day3-recursion-with-arrays-slides.pdf){: .label-button } 
 
-Fri, Oct 27
-: **Lab**{: .label .label-lab } [**Lab 8**](labs/lab8/)
-
-
-Mon, Oct 30
+Wed, Mar 20
 : **Recursion IV**  
   Binary search  
 	[Binary search handout](lectures/recursion/binsearch-handout.pdf)
 : [**Slides**](lectures/recursion/day4-binsearch-slides.pdf){: .label-button } 
-: **Project**{: .label .label-proj } [**Project 4**](projects/proj4) (due Tue, Nov 14)
+: **Project**{: .label .label-proj } [**Project 4**]<!---(projects/proj4)---> (due Sun, Apr 7)
 
-Wed, Nov 1
+Fri, Mar 22
+: **Lab**{: .label .label-lab } [**Lab 8**](labs/lab8/)
+
+
+Mon, Mar 25
 : **Practice with Recursion**  
   [Recursion Problem handout](lectures/recursion/RecursionPracticeProblems.pdf)
-: **Homework**{: .label .label-hw } [**Homework 3**](homework/hw3) (due Thu, Nov 9)
+: **Homework**{: .label .label-hw } [**Homework 3**](homework/hw3) (due Thu, Apr 11) 
 
-Fri, Nov 3
-: **Lab**{: .label .label-lab } [**Lab 9**](labs/lab9/)
+Wed, Mar 27
+Easter break!
 
-Mon, Nov 6
+Fri, Mar 29
+Easter break!
+
+Mon, Apr 1
 : **Inheritance I**  
   [Inheritance handout](lectures/inheritance/Inheritance-handout.pdf) 
 : [**Slides**](lectures/inheritance/day1-inherit-slides.pdf){: .label-button } 
 : **Reading**{: .label .label-reading} Liang 11.1-11.2 (inheritance). 
 
-Wed, Nov 8
+Wed, Apr 3
 : **Inheritance II**
 :  [Inheritance II handout](lectures/inheritance/inheritance-handout-2.pdf) 
 : [**Slides**](lectures/inheritance/day2-inherit-slides.pdf){: .label-button } 
 
-Fri, Nov 10
-: **Lab**{: .label .label-lab } [**Lab 10**](labs/lab10/)
+Fri, Apr 5
+: **Lab**{: .label .label-lab } [**Lab 9**](labs/lab9/)
 
-Mon, Nov 13
+Mon, Apr 8
 : **Polymorphism I**  
 :  [Midterm II Study Guide](lectures/examPrep/exam2-prac.pdf) 
+: **Project**{: .label .label-proj } [**Project 5**]<!---(projects/proj5)---> (due Thu, Apr 18)
 : **Reading**{: .label .label-reading} Liang 11.7-11.9 (polymorphism). 
 
-Wed, Nov 15
+Wed, Apr 10
 : **Review, Polymorphism Continued**  
 :  [Midterm II Study Guide Solutions](lectures/examPrep/exam2-prac-solutions.pdf) 
-: **Project**{: .label .label-proj } [**Project 5**](projects/proj5) (due Thu, Nov 30)
 
-Fri, Nov 17
+Fri, Apr 12
 : **Midterm II**{: .label .label-exam }
 
-Mon, Nov 20
+
+Mon, Apr 15
 : **Polymorphism II (abstract classes)**
 
-Wed, Nov 22
-: No class, Thanksgiving break
+Wed, Apr 17
+: **Band in a Box (abstract classes)**
 
-Fri, Nov 24
-: No class, Thanksgiving break
+Fri, Apr 19
+: **Lab**{: .label .label-lab } [**Lab 10**](labs/lab10/)
+: **Project**{: .label .label-proj } [**Project 6**]<!---(projects/proj6)---> (due Mon, Apr 29)
 
-Mon, Nov 27
-: **Band in a Box (abstract classes)**  
-
-Wed, Nov 29
+Mon, Apr 21
 : **Interfaces**  
+: [Final Study Guide](lectures/examPrep/final-prac-problems-s24.pdf) 
 : **Reading**{: .label .label-reading} Liang 11.5-11.6 (interfaces). 
 
-Fri, Dec 1
+Wed, Apr 23
+: Final Review!!
+: [Final Solutions](lectures/examPrep/final-prac-problems-sol-s24.pdf)
+  
+
+<!---Fri, Dec 1
 : **Lab**{: .label .label-lab } [**Lab 11**](labs/lab11/)
-: **Project**{: .label .label-proj } [**Project 6**](projects/proj6) (due Mon, Dec 11)
 
 Mon, Dec 4
 : **Big Oh**  
   How computer scientists measure how fast algorithms run. 
-: [Big Oh handout](lectures/big-oh/bigoh-handout.pdf) 
-: [Final Study Guide](lectures/examPrep/final-prac-problems-f23.pdf) 
-
-Wed, Dec 6
-: Final Review!!
-: [Final Solutions](lectures/examPrep/final-prac-problems-sol-f23.pdf)--->  
+: [Big Oh handout](lectures/big-oh/bigoh-handout.pdf)---> 
+ 
