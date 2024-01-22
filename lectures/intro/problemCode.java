@@ -19,15 +19,15 @@ class Main
         System.out.print("Enter a number: ");
 
         userGuess = scanner.nextInt();
-        System.out.println(thingToPrint2 + " " + userGuess);
+        System.out.println(thingToPrint2 + " " userGuess);
 
-        System.out.print("Enter a number: ");
+        System.out.print("Enter a number: );
 
         userGuess = scanner.nextInt();
         System.out.println(thingToPrint3 + " " + userGuess);
 
-        //Our first conditional statement!  Notice the curly brackets containing the if clause.
-        if (integerValue < numberValue)
+        #Our first conditional statement!  Notice the curly brackets containing the if clause.
+        if (integerValue < numValue)
         {
             System.out.println("False");
         }
