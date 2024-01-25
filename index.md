@@ -23,7 +23,16 @@ seo:
 - Office hours: Mon 1-3 PM, Wed 1-3 PM.  Also available by appointment and over Slack or Zoom.
 - [Section 1 Canvas page](https://rhodes.instructure.com/courses/6557) and [Section 2 Canvas page](https://rhodes.instructure.com/courses/6563): Use for grades, online assignment submissions, and assignment solutions. (Canvas pages pending; please pardon my work in progress!)
 - [Syllabus](syllabus/syllabus-142-s24.pdf) and [additional policies](syllabus/additional-policies-142-s24.pdf).
-- Tutoring hours: Sunday through Thursday evenings, 5-11pm, Briggs 001 (Tutoring will begin on Tuesday, January 16th!)
+- Tutoring hours: Sunday through Thursday evenings, 5-11pm, Briggs 001 
+
+(Tutoring will be in Slack on 1-24-24 and 1-25-25 from 5-10 PM, at the following link:  
+
+https://rhodes-cs.slack.com/archives/C0105S6BHHU
+
+If you want to request tutoring, you should type in 
+"/tutorme [their class name] [their question]"
+into the slack channel.)
+
 
 ## Resources
 - Textbooks and tutorials: *Introduction to Java* by Liang (textbook), 
