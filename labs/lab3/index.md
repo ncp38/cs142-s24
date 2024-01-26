@@ -9,6 +9,7 @@ parent: Labs
 
 In this lab, you will play and modify a program already written for you in Java.  Through 
 using the program and modifying it, you will practice with designing and using your own classes.
+This will be your first lab with a partner!
 
 ### Getting started
 

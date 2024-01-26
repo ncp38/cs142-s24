@@ -13,9 +13,7 @@ objects, calling instance methods, and multidimensional arrays.
 
 ### Getting started
 
-1. Start IntelliJ.  Load up the same project you were using for lab 1 and follow the instructions (from class/the webpage on Sept 6) for pulling the latest version of the in-class code using Git.  Otherwise, you may start a new project by following the lab 1 directions and using the same URL: https://github.com/ncp38/cs142-s24-inclass
-
-(Note that this time, all the files will be in a src folder, which is what we'll set as the sources root. This will prevent us from having to change the sources root every time we pull in new programs.)
+1. Start IntelliJ.  Follow the instructions (from class/the webpage on January 12th) for pulling the latest version of the in-class code using Git.  You'll create a project using the same link from last week: https://github.com/ncp38/cs142-s24-inclass
 
 2. In the left-hand panel, expand the `src` folder to see today's lab 
     (in the `lab3` folder).  Double-click on `TicTacToe` (not the `md`
@@ -31,10 +29,10 @@ objects, calling instance methods, and multidimensional arrays.
 
 ### Submitting the lab
 
-When you and your partner are done, please turn in the `TicTacToe.java` file and 
+When you are done, please turn in the `TicTacToe.java` file and 
 the `TicTacToe.md` file to canvas.
 
--Each Java file you upload should include a header with an assignment title, your name, class number/period, and your teammates' names.  (Your names need to be listed in the questions.md file as well!)
+-Each Java file you upload should include a header with an assignment title, your name, class number/period, and any teammates' names.  (Your names need to be listed in the questions.md file as well!)
 
 -Beneath this header include a short description of what you've changed in the file.
 
