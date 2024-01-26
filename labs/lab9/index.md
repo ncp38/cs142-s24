@@ -17,7 +17,7 @@ Pair up with your partner, then create a new project from version control (as we
 
 ### Code Source
 
-https://github.com/ncp38/cs142-f23-inclass
+https://github.com/ncp38/cs142-s24-inclass
 
 ### Submitting the lab
 

@@ -16,7 +16,7 @@ Follow the instructions given to you.
 
 ### Code Source
 
-https://github.com/ncp38/cs142-f23-inclass
+https://github.com/ncp38/cs142-s24-inclass
 
 ### Submitting the lab
 
