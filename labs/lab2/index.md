@@ -13,7 +13,7 @@ objects, calling instance methods, and multidimensional arrays.
 
 ### Getting started
 
-1. Start IntelliJ.  Load up the same project you were using for lab 1 and follow the instructions (from class/the webpage on Sept 6) for pulling the latest version of the in-class code using Git.  Otherwise, you may start a new project by following the lab 1 directions and using the same URL: https://github.com/ncp38/cs142-f23-inclass
+1. Start IntelliJ.  Load up the same project you were using for lab 1 and follow the instructions (from class/the webpage on Sept 6) for pulling the latest version of the in-class code using Git.  Otherwise, you may start a new project by following the lab 1 directions and using the same URL: https://github.com/ncp38/cs142-s24-inclass
 
 (Note that this time, all the files will be in a src folder, which is what we'll set as the sources root. This will prevent us from having to change the sources root every time we pull in new programs.)
 
