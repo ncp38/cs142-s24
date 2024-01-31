@@ -65,7 +65,7 @@ Wed, Jan 31
   OOP "gotchas" and learning about references.  
   [Gotchas handout](lectures/oop/oop-gotchas-handout.pdf)
 : **Reading**{: .label .label-reading} Liang chapter 8 (multidimensional arrays).
-: **Project**{: .label .label-proj } [**Project 2**]<!---(projects/proj2)---> (due Thu, Feb 15)
+: **Project**{: .label .label-proj } [**Project 2**](projects/proj2) (due Thu, Feb 15)
 
 <!---:  A series of lectures to watch followed by in-class work!  
 :  [Lecture 1 - Debugging with Intellij](https://rhodes.instructuremedia.com/embed/75f01cbf-69f9-4c77-aeb7-96e19c0b19fa){: .label-button } 
