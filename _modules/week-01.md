@@ -40,7 +40,7 @@ Mon, Jan 22
 
 
 Wed, Jan 24
-: **Practice with functions, intro to OOP.**  
+: **Practice with functions, intro to OOP**  
   -Continue out-of-class work on functions handout.
 :  [**Functions with arrays**](lectures/oop/Arrays and Functions.pdf).  
   [Starting code](lectures/oop/classPracticeBlank.java).  
@@ -50,20 +50,17 @@ Fri, Jan 26
 : **Lab**{: .label .label-lab } [**Lab 2**](labs/lab2/)
 
 Mon, Jan 29
-: **Object-Oriented Programming II**  
-  Digging in deeper to OOP concepts and terminology.  Using classes and functions designed by others.
+: **Object-Oriented Programming I**
 :  [**Start-up: Accessing in-class code examples**](lectures/oop/VCSSetup.pdf)
 :  [OOP definitions](lectures/oop/oop-defs.pdf)
-:  [SimpleCanvas and Color APIs](lectures/oop/simplecanvas-and-color.pdf)
-:  [Code Source](https://github.com/ncp38/cs142-s24-inclass/tree/main/src/oop1){: .label-button } 
-
 : **Reading**{: .label .label-reading} Sedgewick & Wayne 3.1, pp. 329-335 (OO concepts).
 : **Homework**{: .label .label-hw } [**Homework 1**](homework/hw1) (due Thu, Feb 1)
   
 Wed, Jan 31
-: **Object-Oriented Programming III**  
-  OOP "gotchas" and learning about references.  
-  [Gotchas handout](lectures/oop/oop-gotchas-handout.pdf)
+: **Object-Oriented Programming II**  
+  Digging in deeper to OOP concepts and terminology.  Using classes and functions designed by others.
+:  [SimpleCanvas and Color APIs](lectures/oop/simplecanvas-and-color.pdf)
+:  [Code Source](https://github.com/ncp38/cs142-s24-inclass/tree/main/src/oop1){: .label-button } 
 : **Reading**{: .label .label-reading} Liang chapter 8 (multidimensional arrays).
 : **Project**{: .label .label-proj } [**Project 2**](projects/proj2) (due Thu, Feb 15)
 
@@ -76,23 +73,23 @@ Fri, Feb 2
 : **Lab**{: .label .label-lab } [**Lab 3**](labs/lab3/)
 
 Mon, Feb 5
+: **Object-Oriented Programming III**  
+  OOP "gotchas" and learning about references.  
+  [Gotchas handout](lectures/oop/oop-gotchas-handout.pdf)
+
+Wed, Feb 7
 : **Creating Classes I**  
   Learning how to design simple classes.  
   [Class design handout](lectures/oop/oop-creating-classes-handout.pdf)
 : [**Slides**](lectures/oop/oop-creating-classes-slides1.pdf){: .label-button } 
 : **Reading**{: .label .label-reading} Liang 9.1-9.3, 9.5 (creating classes).
 
-Wed, Feb 7
-: **Creating Classes II**  
-  `public` and `private`.
-: **Reading**{: .label .label-reading} Liang 9.8 (public/private).
-
 Fri, Feb 9
 : **Lab**{: .label .label-lab } [**Lab 4**](labs/lab4/)
 
 Mon, Feb 12
-: **Creating Classes III**  
-  Constructors.
+: **Creating Classes II**  
+  Constructors and further practice.
 : [**Slides**](lectures/oop/creating-classes-day2-slides.pdf){: .label-button } 
 : **Reading**{: .label .label-reading} Liang 9.4 (constructors).
 : **Homework**{: .label .label-hw } [**Homework 2**](homework/hw2) (due Mon, Feb 19)
