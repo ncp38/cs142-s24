@@ -5,7 +5,7 @@ parent: Labs
 
 # CS 142 Lab 4
 
-For this lab, we're switching to randomized partners!  Your pairing will be put up on the screen at the beginning of class.
+For this lab, we're continuing to pick our partners!  
 
 ## Self-Driving Racecars
 
@@ -13,7 +13,7 @@ In this lab, you will continue working on the racecar program from last week.  T
 
 ### Getting started
 
-Partner up with your new partner, then create a new project from version control (as we've been doing for the last several classes).  Follow the instructions in the .md file!
+Partner up with your partner, then create a new project from version control (as we've been doing for the last several classes).  Follow the instructions in the .md file!
 
 ### Code Source
 
