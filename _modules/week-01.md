@@ -119,31 +119,34 @@ Fri, Feb 23
 : **Midterm I**{: .label .label-exam }
 
 Mon, Feb 26
-: **ArrayLists, Strings, and File Reading**  
-  [String handout](lectures/arraylists-str/strings-handout.pdf),
-  [ArrayList handout](lectures/arraylists-str/arraylists-handout.pdf),
-  [Practice problems](lectures/arraylists-str/practice.pdf)
-: **Project**{: .label .label-proj } [**Project 3**]<!---(projects/proj3)---> (due Tue, Mar 19)
-
-Wed, Feb 28
-: **ArrayLists, Strings, and File Reading**  
-  Continue practice from Wednesday.
-: **Reading**{: .label .label-reading} Liang 11.11 (ArrayLists), 4.4 and 10.10 (strings).
-
-Fri, Mar 1
-: **Lab**{: .label .label-lab } [**Lab 6**](labs/lab6/)
-
-Mon, Mar 4
 : **Recursion I**  
   [Recursion handout](lectures/recursion/recursion-handout.pdf)
 : [**Slides**](lectures/recursion/recursion-1-slides.pdf){: .label-button } 
 	[**Recursion 1**](https://github.com/ncp38/cs142-f23-inclass/tree/main/src/recursion/Recursion1.java){: .label-button } 
 : **Reading**{: .label .label-reading} Liang 18.1-18.2 (recursion intro).
+: **Project**{: .label .label-proj } [**Project 3**]<!---(projects/proj3)---> (due Tue, Mar 19)
 
-Wed, Mar 6
+Wed, Feb 28
 : **Recursion II**
 : **Reading**{: .label .label-reading} Liang 18.3 (recursion continued).  Pay special attention to Figures 18.2 and 18.3 on
   page 722; these are important to understand.
+
+Fri, Mar 1
+: **Lab**{: .label .label-lab } [**Lab 6**](labs/lab6/)
+
+Mon, Mar 4
+: **Recursion III**  
+  Recursive functions with arrays  
+    [Recursion with arrays handout](lectures/recursion/recursion-with-arrays.pdf)
+: [**Slides**](lectures/recursion/day3-recursion-with-arrays-slides.pdf){: .label-button } 
+
+
+
+Wed, Mar 6
+: **Recursion IV**  
+  Binary search  
+	[Binary search handout](lectures/recursion/binsearch-handout.pdf)
+: [**Slides**](lectures/recursion/day4-binsearch-slides.pdf){: .label-button } 
 
 Fri, Mar 8
 : **Lab**{: .label .label-lab } [**Lab 7**](labs/lab7/)
@@ -158,16 +161,15 @@ Fri, Mar 15
 : Spring break!
 
 Mon, Mar 18
-: **Recursion III**  
-  Recursive functions with arrays  
-    [Recursion with arrays handout](lectures/recursion/recursion-with-arrays.pdf)
-: [**Slides**](lectures/recursion/day3-recursion-with-arrays-slides.pdf){: .label-button } 
+: **Practice with Recursion**  
+  [Recursion Problem handout](lectures/recursion/RecursionPracticeProblems.pdf)
+: **Homework**{: .label .label-hw } [**Homework 3**](homework/hw3) (due Thu, Apr 11)
 
 Wed, Mar 20
-: **Recursion IV**  
-  Binary search  
-	[Binary search handout](lectures/recursion/binsearch-handout.pdf)
-: [**Slides**](lectures/recursion/day4-binsearch-slides.pdf){: .label-button } 
+: **ArrayLists, Strings, and File Reading**  
+  [String handout](lectures/arraylists-str/strings-handout.pdf),
+  [ArrayList handout](lectures/arraylists-str/arraylists-handout.pdf),
+  [Practice problems](lectures/arraylists-str/practice.pdf)
 : **Project**{: .label .label-proj } [**Project 4**]<!---(projects/proj4)---> (due Sun, Apr 7)
 
 Fri, Mar 22
@@ -175,9 +177,9 @@ Fri, Mar 22
 
 
 Mon, Mar 25
-: **Practice with Recursion**  
-  [Recursion Problem handout](lectures/recursion/RecursionPracticeProblems.pdf)
-: **Homework**{: .label .label-hw } [**Homework 3**](homework/hw3) (due Thu, Apr 11) 
+ : **ArrayLists, Strings, and File Reading**  
+  Continue practice from Wednesday.
+: **Reading**{: .label .label-reading} Liang 11.11 (ArrayLists), 4.4 and 10.10 (strings).
 
 Wed, Mar 27
 : Easter break!
