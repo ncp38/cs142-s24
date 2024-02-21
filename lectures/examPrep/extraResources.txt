@@ -1,0 +1,10 @@
+Some places that may have helpful practice problems:
+https://www.w3resource.com/java-exercises/method/index.php [simple practice problems-you may need to look up a conversion (such as Fahrenheit to Celsius) but otherwise these problems should be pretty straightforward.]
+https://www.w3resource.com/java-exercises/datatypes/index.php numbers 1-10 
+
+https://codingbat.com/java/Warmup-2
+https://codingbat.com/java/AP-1
+https://codingbat.com/java/Logic-1
+
+https://www.w3resource.com/java-exercises/oop/index.php [More challenging problems.  These questions may be longer or a little harder than what's on the exam, but should be similar otherwise.]
+https://codingbat.com/java/Array-3

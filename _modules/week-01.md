@@ -114,6 +114,7 @@ Mon, Feb 19
 
 Wed, Feb 21
 : **Review for midterm**
+: [**Extra Exam Practice Problems**](lectures/examPrep/extraResources.txt){: .label-button } 
 
 Fri, Feb 23
 : **Midterm I**{: .label .label-exam }
