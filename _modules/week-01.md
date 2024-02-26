@@ -125,7 +125,7 @@ Mon, Feb 26
 : [**Slides**](lectures/recursion/recursion-1-slides.pdf){: .label-button } 
 	[**Recursion 1**](https://github.com/ncp38/cs142-f23-inclass/tree/main/src/recursion/Recursion1.java){: .label-button } 
 : **Reading**{: .label .label-reading} Liang 18.1-18.2 (recursion intro).
-: **Project**{: .label .label-proj } [**Project 3**]<!---(projects/proj3)---> (due Tue, Mar 19)
+: **Project**{: .label .label-proj } [**Project 3**](projects/proj3) (due Tue, Mar 19)
 
 Wed, Feb 28
 : **Recursion II**
