@@ -3,13 +3,13 @@ title: Lab 8
 parent: Labs
 ---
 
-# CS 142 Lab 
+# CS 142 Lab 8
 
-For this lab, we'll be using the same randomized partners!  (Your pairing will be put up on the screen at the beginning of class.)
+For this lab, we're using the same randomized partners as last week!
 
-## Recursion and the Tower of Hanoi
+## The snake game
 
-In this lab, you'll further explore the concept of recursion!  You'll investigate several recursive algorithms and the Tower of Hanoi game and spend some time analyzing how they work.
+You'll investigate and design a classic Snake game, where a player controls a snake on a 2D grid as it seeks to eat items to become bigger!  This will help you improve your ability to make design choices in your programming, use/practice with ArrayLists and Strings, and practice with instantiating objects and calling instance methods on them.
 
 ### Getting started
 

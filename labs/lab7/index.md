@@ -3,13 +3,13 @@ title: Lab 7
 parent: Labs
 ---
 
-# CS 142 Lab 7
+# CS 142 Lab 
 
-For this lab, we'll be using new randomized partners!  (Your pairing will be put up on the screen at the beginning of class.)
+For this lab, we'll be using the same randomized partners!  (Your pairing will be put up on the screen at the beginning of class.)
 
-## Recursion, recursive algorithms, and recursion diagrams
+## Recursion and the Tower of Hanoi
 
-In this lab, you'll explore recursion and using recursive functions!  When you finish, you'll have worked with recursive functions, created several recursive functions yourself, and analyzed how they operate.
+In this lab, you'll further explore the concept of recursion!  You'll investigate several recursive algorithms and the Tower of Hanoi game and spend some time analyzing how they work.
 
 ### Getting started
 

@@ -5,11 +5,11 @@ parent: Labs
 
 # CS 142 Lab 6
 
-For this lab, we're using the same randomized partners as last week!
+For this lab, we'll be using new randomized partners!  (Your pairing will be put up on the screen at the beginning of class.)
 
-## The snake game
+## Recursion, recursive algorithms, and recursion diagrams
 
-You'll investigate and design a classic Snake game, where a player controls a snake on a 2D grid as it seeks to eat items to become bigger!  This will help you improve your ability to make design choices in your programming, use/practice with ArrayLists and Strings, and practice with instantiating objects and calling instance methods on them.
+In this lab, you'll explore recursion and using recursive functions!  When you finish, you'll have worked with recursive functions, created several recursive functions yourself, and analyzed how they operate.
 
 ### Getting started
 
