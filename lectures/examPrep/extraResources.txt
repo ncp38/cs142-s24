@@ -8,3 +8,33 @@ https://codingbat.com/java/Logic-1
 
 https://www.w3resource.com/java-exercises/oop/index.php [More challenging problems.  These questions may be longer or a little harder than what's on the exam, but should be similar otherwise.]
 https://codingbat.com/java/Array-3
+
+
+
+
+
+These examples are good for specifically class- and design-based questions:
+
+https://www.codesdope.com/practice/java-classes-and-objects/
+
+https://www.w3resource.com/java-exercises/oop/index.php
+
+http://comet.lehman.cuny.edu/owen/teaching/2014sp/cmp326/classesAndObjectsPractice.pdf
+
+http://www.beginwithjava.com/java/classes-ii/questions.html
+
+https://horstmann.com/codecheck/java-objects-early.html
+https://codecheck.io/files/wiley/codecheck-bj-4-class-101
+
+
+Finally, here are a few examples involving interpreting code:
+
+https://www.geeksforgeeks.org/output-of-java-program-set-1/
+This goes all the way from set 1 to set 7, so there's a lot of examples here!  This is generally a little trickier than what we've tackled so far but is great practice!  (There are other examples later on as well, but I think those start covering a few more advanced concepts.)
+
+These two are still reasonable but are a good bit trickier than what we've covered so far.
+https://www.geeksforgeeks.org/java-tricky-output-questions/
+
+https://www.tutorialspoint.com/java-tricky-output-questions
+
+As you work through these problems, let me know if you find them helpful!  (And, if you don't find them helpful, let me know, and we can figure something out!)
