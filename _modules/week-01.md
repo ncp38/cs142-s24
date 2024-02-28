@@ -165,13 +165,13 @@ Mon, Mar 18
 : **Practice with Recursion**  
   [Recursion Problem handout](lectures/recursion/RecursionPracticeProblems.pdf)
 : **Homework**{: .label .label-hw } [**Homework 3**](homework/hw3) (due Thu, Apr 11)
+: **Project**{: .label .label-proj } [**Project 4**]<!---(projects/proj4)---> (due Sat, Apr 6)
 
 Wed, Mar 20
 : **ArrayLists, Strings, and File Reading**  
   [String handout](lectures/arraylists-str/strings-handout.pdf),
   [ArrayList handout](lectures/arraylists-str/arraylists-handout.pdf),
   [Practice problems](lectures/arraylists-str/practice.pdf)
-: **Project**{: .label .label-proj } [**Project 4**]<!---(projects/proj4)---> (due Sun, Apr 7)
 
 Fri, Mar 22
 : **Lab**{: .label .label-lab } [**Lab 8**](labs/lab8/)
@@ -201,11 +201,11 @@ Wed, Apr 3
 
 Fri, Apr 5
 : **Lab**{: .label .label-lab } [**Lab 9**](labs/lab9/)
+: **Project**{: .label .label-proj } [**Project 5**]<!---(projects/proj5)---> (due Thu, Apr 18)
 
 Mon, Apr 8
 : **Polymorphism I**  
 :  [Midterm II Study Guide](lectures/examPrep/exam2-prac.pdf) 
-: **Project**{: .label .label-proj } [**Project 5**]<!---(projects/proj5)---> (due Thu, Apr 18)
 : **Reading**{: .label .label-reading} Liang 11.7-11.9 (polymorphism). 
 
 Wed, Apr 10
@@ -221,10 +221,10 @@ Mon, Apr 15
 
 Wed, Apr 17
 : **Band in a Box (abstract classes)**
+: **Project**{: .label .label-proj } [**Project 6**]<!---(projects/proj6)---> (due Sun, Apr 28)
 
 Fri, Apr 19
 : **Lab**{: .label .label-lab } [**Lab 10**](labs/lab10/)
-: **Project**{: .label .label-proj } [**Project 6**]<!---(projects/proj6)---> (due Mon, Apr 29)
 
 Mon, Apr 21
 : **Interfaces**  
