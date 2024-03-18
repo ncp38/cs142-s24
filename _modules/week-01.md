@@ -164,8 +164,8 @@ Fri, Mar 15
 Mon, Mar 18
 : **Practice with Recursion**  
   [Recursion Problem handout](lectures/recursion/RecursionPracticeProblems.pdf)
-: **Homework**{: .label .label-hw } [**Homework 3**](homework/hw3) (due Thu, Apr 11)
-: **Project**{: .label .label-proj } [**Project 4**]<!---(projects/proj4)---> (due Sat, Apr 6)
+: **Homework**{: .label .label-hw } [**Homework 3**](homework/hw3) (due Tue, Apr 2)
+: **Project**{: .label .label-proj } [**Project 4**](projects/proj4) (due Fri, Apr 5)
 
 Wed, Mar 20
 : **ArrayLists, Strings, and File Reading**  
@@ -175,7 +175,6 @@ Wed, Mar 20
 
 Fri, Mar 22
 : **Lab**{: .label .label-lab } [**Lab 8**](labs/lab8/)
-
 
 Mon, Mar 25
  : **ArrayLists, Strings, and File Reading**  
