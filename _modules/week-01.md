@@ -168,10 +168,15 @@ Mon, Mar 18
 : **Project**{: .label .label-proj } [**Project 4**](projects/proj4) (due Fri, Apr 5)
 
 Wed, Mar 20
-: **ArrayLists, Strings, and File Reading**  
+:  A series of lectures to watch followed by in-class work!  
+:  [Lecture 1 - Debugging with Intellij](https://rhodes.instructuremedia.com/embed/75f01cbf-69f9-4c77-aeb7-96e19c0b19fa){: .label-button } 
+:  [Lecture 2 - Design Choices](https://rhodes.instructuremedia.com/embed/c1553cb0-476d-45c3-b56c-277d4420e8da){: .label-button } 
+:  [Lecture 3 - SimpleCanvas & In-Class Work](https://rhodes.instructuremedia.com/embed/b5ee1d41-8556-4609-93ed-cade4dc2aea8){: .label-button }
+
+<!---: **ArrayLists, Strings, and File Reading**  
   [String handout](lectures/arraylists-str/strings-handout.pdf),
   [ArrayList handout](lectures/arraylists-str/arraylists-handout.pdf),
-  [Practice problems](lectures/arraylists-str/practice.pdf)
+  [Practice problems](lectures/arraylists-str/practice.pdf)--->
 
 Fri, Mar 22
 : **Lab**{: .label .label-lab } [**Lab 8**](labs/lab8/)
