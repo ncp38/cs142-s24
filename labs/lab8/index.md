@@ -5,7 +5,7 @@ parent: Labs
 
 # CS 142 Lab 8
 
-For this lab, we're using the same randomized partners as last week!
+For this lab, you can pick your own partner!
 
 ## The snake game
 
