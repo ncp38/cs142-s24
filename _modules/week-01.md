@@ -171,7 +171,6 @@ Wed, Mar 20
 :  A series of lectures to watch followed by in-class work!  
 :  [Lecture 1 - Debugging with Intellij](https://rhodes.instructuremedia.com/embed/75f01cbf-69f9-4c77-aeb7-96e19c0b19fa){: .label-button } 
 :  [Lecture 2 - Design Choices](https://rhodes.instructuremedia.com/embed/c1553cb0-476d-45c3-b56c-277d4420e8da){: .label-button } 
-:  [Lecture 3 - ArrayLists and File IO](https://rhodes.instructuremedia.com/embed/546a45c7-e498-420a-b24c-524f710c5f4d){: .label-button }
   [String handout](lectures/arraylists-str/strings-handout.pdf),
   [ArrayList handout](lectures/arraylists-str/arraylists-handout.pdf),
   [Practice problems](lectures/arraylists-str/practice.pdf)
@@ -179,32 +178,33 @@ Wed, Mar 20
 <!---: **ArrayLists, Strings, and File Reading**  
   [String handout](lectures/arraylists-str/strings-handout.pdf),
   [ArrayList handout](lectures/arraylists-str/arraylists-handout.pdf),
-  [Practice problems](lectures/arraylists-str/practice.pdf)--->
+  [Practice problems](lectures/arraylists-str/practice.pdf)
+  
+   : **ArrayLists, Strings, and File Reading**  
+  Continue practice from Wednesday.
+: **Reading**{: .label .label-reading} Liang 11.11 (ArrayLists), 4.4 and 10.10 (strings).--->
 
 Fri, Mar 22
 : **Lab**{: .label .label-lab } [**Lab 8**](labs/lab8/)
 
 Mon, Mar 25
- : **ArrayLists, Strings, and File Reading**  
-  Continue practice from Wednesday.
-: **Reading**{: .label .label-reading} Liang 11.11 (ArrayLists), 4.4 and 10.10 (strings).
+: **Inheritance I**  
+  [Inheritance handout](lectures/inheritance/Inheritance-handout.pdf) 
+: **Reading**{: .label .label-reading} Liang 11.1-11.2 (inheritance). 
 
 Wed, Mar 27
-: Easter break!
+: **Inheritance II**
+:  [Inheritance II handout](lectures/inheritance/inheritance-handout-2.pdf) 
+: [**Slides**](lectures/inheritance/day2-inherit-slides.pdf){: .label-button } 
 
 Fri, Mar 29
 : Easter break!
 
 Mon, Apr 1
-: **Inheritance I**  
-  [Inheritance handout](lectures/inheritance/Inheritance-handout.pdf) 
-: [**Slides**](lectures/inheritance/day1-inherit-slides.pdf){: .label-button } 
-: **Reading**{: .label .label-reading} Liang 11.1-11.2 (inheritance). 
+
 
 Wed, Apr 3
-: **Inheritance II**
-:  [Inheritance II handout](lectures/inheritance/inheritance-handout-2.pdf) 
-: [**Slides**](lectures/inheritance/day2-inherit-slides.pdf){: .label-button } 
+
 
 Fri, Apr 5
 : **Lab**{: .label .label-lab } [**Lab 9**](labs/lab9/)
