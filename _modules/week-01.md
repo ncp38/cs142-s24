@@ -201,23 +201,23 @@ Fri, Mar 29
 : Easter break!
 
 Mon, Apr 1
-
+: **Polymorphism I**  
+: **Reading**{: .label .label-reading} Liang 11.7-11.9 (polymorphism). 
 
 Wed, Apr 3
-
+: **Polymorphism Continued**  
+:  [Midterm II Study Guide](lectures/examPrep/exam2-prac.pdf) 
 
 Fri, Apr 5
 : **Lab**{: .label .label-lab } [**Lab 9**](labs/lab9/)
 : **Project**{: .label .label-proj } [**Project 5**]<!---(projects/proj5)---> (due Thu, Apr 18)
 
 Mon, Apr 8
-: **Polymorphism I**  
-:  [Midterm II Study Guide](lectures/examPrep/exam2-prac.pdf) 
-: **Reading**{: .label .label-reading} Liang 11.7-11.9 (polymorphism). 
+: **Abstract Classes & Band in a Box**
 
 Wed, Apr 10
-: **Review, Polymorphism Continued**  
-:  [Midterm II Study Guide Solutions](lectures/examPrep/exam2-prac-solutions.pdf) 
+: **Review**  
+<!---:  [Midterm II Study Guide Solutions](lectures/examPrep/exam2-prac-solutions.pdf) --->
 
 Fri, Apr 12
 : **Midterm II**{: .label .label-exam }
@@ -227,20 +227,23 @@ Mon, Apr 15
 : **Polymorphism II (abstract classes)**
 
 Wed, Apr 17
-: **Band in a Box (abstract classes)**
+: **Interfaces** 
+: [Final Study Guide](lectures/examPrep/final-prac-problems-s24.pdf) 
+: **Reading**{: .label .label-reading} Liang 11.5-11.6 (interfaces). 
 : **Project**{: .label .label-proj } [**Project 6**]<!---(projects/proj6)---> (due Sun, Apr 28)
 
 Fri, Apr 19
 : **Lab**{: .label .label-lab } [**Lab 10**](labs/lab10/)
 
 Mon, Apr 21
-: **Interfaces**  
-: [Final Study Guide](lectures/examPrep/final-prac-problems-s24.pdf) 
-: **Reading**{: .label .label-reading} Liang 11.5-11.6 (interfaces). 
+: **Big Oh**  
+  How computer scientists measure how fast algorithms run. 
+: [Big Oh handout](lectures/big-oh/bigoh-handout.pdf)
+
 
 Wed, Apr 23
 : Final Review!!
-: [Final Solutions](lectures/examPrep/final-prac-problems-sol-s24.pdf)
+<!---: [Final Solutions](lectures/examPrep/final-prac-problems-sol-s24.pdf)--->
   
 
 <!---Fri, Dec 1
