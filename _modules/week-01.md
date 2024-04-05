@@ -210,7 +210,7 @@ Wed, Apr 3
 
 Fri, Apr 5
 : **Lab**{: .label .label-lab } [**Lab 9**](labs/lab9/)
-: **Project**{: .label .label-proj } [**Project 5**]<!---(projects/proj5)---> (due Thu, Apr 18)
+: **Project**{: .label .label-proj } [**Project 5**](projects/proj5) (due Thu, Apr 18)
 
 Mon, Apr 8
 : **Abstract Classes & Band in a Box**
