@@ -28,7 +28,7 @@ Your browser does not support the video tag.
 You can download the starter code for this assignment by creating a new IntelliJ project from version control (VCS) and using the following URL:
 
 ```
-https://github.com/ncp38/cs142-f23-inclass
+https://github.com/ncp38/cs142-s24-inclass
 ```
 
 ## Concepts in this program
