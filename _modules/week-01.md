@@ -224,22 +224,21 @@ Fri, Apr 12
 
 
 Mon, Apr 15
-: **Polymorphism II (abstract classes)**
+: **Interfaces** 
+: **Reading**{: .label .label-reading} Liang 11.5-11.6 (interfaces). 
 
 Wed, Apr 17
-: **Interfaces** 
+: **Big O** 
+  How computer scientists measure how fast algorithms run. 
 : [Final Study Guide](lectures/examPrep/final-prac-problems-s24.pdf) 
-: **Reading**{: .label .label-reading} Liang 11.5-11.6 (interfaces). 
+: [Big Oh handout](lectures/big-oh/bigoh-handout.pdf)
 : **Project**{: .label .label-proj } [**Project 6**]<!---(projects/proj6)---> (due Sun, Apr 28)
 
 Fri, Apr 19
 : **Lab**{: .label .label-lab } [**Lab 10**](labs/lab10/)
 
 Mon, Apr 21
-: **Big Oh**  
-  How computer scientists measure how fast algorithms run. 
-: [Big Oh handout](lectures/big-oh/bigoh-handout.pdf)
-
+: **Big O, Part 2**  
 
 Wed, Apr 23
 : Final Review!!
