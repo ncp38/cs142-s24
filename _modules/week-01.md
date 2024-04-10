@@ -217,7 +217,7 @@ Mon, Apr 8
 
 Wed, Apr 10
 : **Review**  
-<!---:  [Midterm II Study Guide Solutions](lectures/examPrep/exam2-prac-solutions.pdf) --->
+:  [Midterm II Study Guide Solutions](lectures/examPrep/exam2-prac-solutions.pdf)
 
 Fri, Apr 12
 : **Midterm II**{: .label .label-exam }
