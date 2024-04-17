@@ -231,8 +231,8 @@ Wed, Apr 17
 : **Big O** 
   How computer scientists measure how fast algorithms run. 
 : [Final Study Guide](lectures/examPrep/final-prac-problems-s24.pdf) 
-: [Big Oh handout](lectures/big-oh/bigoh-handout.pdf)
-: **Project**{: .label .label-proj } [**Project 6**]<!---(projects/proj6)---> (due Sun, Apr 28)
+: [Big O handout](lectures/big-oh/bigoh-handout.pdf)
+: **Project**{: .label .label-proj } [**Project 6**](projects/proj6) (due Sun, Apr 28)
 
 Fri, Apr 19
 : **Lab**{: .label .label-lab } [**Lab 10**](labs/lab10/)
