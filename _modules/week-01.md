@@ -237,10 +237,10 @@ Wed, Apr 17
 Fri, Apr 19
 : **Lab**{: .label .label-lab } [**Lab 10**](labs/lab10/)
 
-Mon, Apr 21
+Mon, Apr 22
 : **Big O, Part 2**  
 
-Wed, Apr 23
+Wed, Apr 24
 : Final Review!!
 <!---: [Final Solutions](lectures/examPrep/final-prac-problems-sol-s24.pdf)--->
   
