@@ -242,7 +242,7 @@ Mon, Apr 22
 
 Wed, Apr 24
 : Final Review!!
-<!---: [Final Solutions](lectures/examPrep/final-prac-problems-sol-s24.pdf)--->
+: [Final Solutions](lectures/examPrep/final-prac-problems-sol-s24.pdf)
   
 
 <!---Fri, Dec 1
